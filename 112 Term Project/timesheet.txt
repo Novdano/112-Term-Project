@@ -1,0 +1,18 @@
+Time spent on project so far: 10 hours
+
+Details:
+November 8th 2016:
+Understanding basic of graphic in Panda3d and how the animation works (3 hours)
+
+November 12th 2016:
+Creating basic environment and actors, including event handling (keypresses) and movement (2 hours)
+
+November 17th 2016:
+Understanding how collision works and implementing it on the environment. Collision works on the actor moving and it can interact with the environment (3 hours).
+
+November 21st 2016:
+Worked on shooting bullets and implementing collision control for the bullets and the object. Collision has not worked on bullet yet but bullet can be successfully loaded onto the environment. (2 hours)
+
+
+
+
